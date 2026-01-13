@@ -53,3 +53,10 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+x64/
+x86/
+Debug/
+Release/
+.vs/
